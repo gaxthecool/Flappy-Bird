@@ -1,2 +1,2 @@
 # Flappy-Bird
-First Flappy Bird Game for the Stardance Challenge. 
+A recreation of the Flappy Bird Mobile Game with new sprites and a ranking system. 
